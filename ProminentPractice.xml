@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Trainees>
+    <Trainee id="1">
+        <name>Saveen</name>
+        <address>Dindoli</address>
+        <DOB>Thu Aug 10 00:00:00 IST 2000</DOB>
+        <joiningDate>Mon Jul 10 00:00:00 IST 2023</joiningDate>
+        <age>23</age>
+    </Trainee>
+    <Trainee id="2">
+        <name>Yash</name>
+        <address>Katodara</address>
+        <DOB>Sat Jun 20 00:00:00 IST 1998</DOB>
+        <joiningDate>Wed Feb 08 00:00:00 IST 2023</joiningDate>
+        <age>26</age>
+    </Trainee>
+    <Trainee id="3">
+        <name>Rahul</name>
+        <address>Adajan</address>
+        <DOB>Tue Apr 22 00:00:00 IST 1997</DOB>
+        <joiningDate>Mon Jun 12 00:00:00 IST 2023</joiningDate>
+        <age>27</age>
+    </Trainee>
+    <Trainee id="4">
+        <name>Vikas</name>
+        <address>Vesu</address>
+        <DOB>Mon Nov 15 00:00:00 IST 1999</DOB>
+        <joiningDate>Sun May 21 00:00:00 IST 2023</joiningDate>
+        <age>25</age>
+    </Trainee>
+    <Trainee id="5">
+        <name>Sunil</name>
+        <address>Varachha</address>
+        <DOB>Sat Sep 30 00:00:00 IST 2000</DOB>
+        <joiningDate>Sat Apr 15 00:00:00 IST 2023</joiningDate>
+        <age>23</age>
+    </Trainee>
+</Trainees>
